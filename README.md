@@ -1,20 +1,14 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Agropec Futuro Leite
 
-# Run and deploy your AI Studio app
+Sistema desenvolvido para gerenciamento e automação na pecuária leiteira.
 
-This contains everything you need to run your app locally.
+## 🚀 Como Rodar o Projeto Localmente
 
-View your app in AI Studio: https://ai.studio/apps/d47f9320-724f-4e3f-bc24-0cbddfb45d28
+### Pré-requisitos
+* **Node.js** instalado na máquina.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Passo a Passo
+1. Instale as dependências do projeto:
+   
+```bash
+   npm install
