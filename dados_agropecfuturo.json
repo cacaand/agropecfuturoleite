@@ -1,0 +1,414 @@
+{
+  "versao": "AgropecFuturo Leite v2.0",
+  "animais": [
+    {
+      "id": "01",
+      "sexo": "Macho",
+      "pai": "",
+      "mae": "",
+      "metodoReproducao": "Natural",
+      "dataEntrada": "2026-01-01",
+      "precoCompra": 2000,
+      "formaPagamento": "À vista",
+      "taxaJurosAnual": 15,
+      "valorParcela": "0",
+      "numeroParcelas": "0",
+      "origemCapital": "Próprio",
+      "raca": "Holandês",
+      "pesoInicial": "10",
+      "dataPrenha": "",
+      "dataDesmamaPrevista": "",
+      "tipoEntrada": "Compra",
+      "historicoPesos": [
+        {
+          "data": "2026-01-01",
+          "peso": 10
+        }
+      ],
+      "status": "Ativo",
+      "partos": 0,
+      "vacinas": [
+        {
+          "data": "2026-04-13",
+          "tipo": "Vermífugo"
+        }
+      ],
+      "despesas": [
+        {
+          "tipo": "Rateio Ração",
+          "valor": 47.25,
+          "data": "2026-04-30"
+        },
+        {
+          "tipo": "Rateio Suplemento",
+          "valor": 45,
+          "data": "2026-04-30"
+        },
+        {
+          "tipo": "Rateio Vacinas",
+          "valor": 22.25,
+          "data": "2026-04-30"
+        },
+        {
+          "tipo": "Rateio Ração",
+          "valor": 125,
+          "data": "2026-05-07"
+        }
+      ],
+      "ocorrenciasSaude": [],
+      "createdAt": "2026-04-30T01:37:11.521Z",
+      "updatedAt": "2026-05-07T23:59:37.896Z"
+    },
+    {
+      "id": "02",
+      "sexo": "Fêmea",
+      "pai": "",
+      "mae": "",
+      "metodoReproducao": "Natural",
+      "dataEntrada": "2026-01-01",
+      "precoCompra": 2300,
+      "formaPagamento": "À vista",
+      "taxaJurosAnual": 15,
+      "valorParcela": "0",
+      "numeroParcelas": "0",
+      "origemCapital": "Próprio",
+      "raca": "Nelore",
+      "pesoInicial": "9.5",
+      "dataPrenha": "",
+      "dataDesmamaPrevista": "",
+      "tipoEntrada": "Compra",
+      "historicoPesos": [
+        {
+          "data": "2026-01-01",
+          "peso": 9.5
+        }
+      ],
+      "status": "Ativo",
+      "partos": 0,
+      "vacinas": [
+        {
+          "data": "2026-04-13",
+          "tipo": "Vermífugo"
+        }
+      ],
+      "despesas": [
+        {
+          "tipo": "Rateio Ração",
+          "valor": 47.25,
+          "data": "2026-04-30"
+        },
+        {
+          "tipo": "Rateio Suplemento",
+          "valor": 45,
+          "data": "2026-04-30"
+        },
+        {
+          "tipo": "Rateio Vacinas",
+          "valor": 22.25,
+          "data": "2026-04-30"
+        },
+        {
+          "tipo": "Rateio Ração",
+          "valor": 125,
+          "data": "2026-05-07"
+        }
+      ],
+      "ocorrenciasSaude": [],
+      "createdAt": "2026-04-30T01:40:28.622Z",
+      "updatedAt": "2026-05-07T23:59:37.896Z"
+    },
+    {
+      "id": "03",
+      "sexo": "Fêmea",
+      "pai": "",
+      "mae": "",
+      "metodoReproducao": "Natural",
+      "dataEntrada": "2026-01-01",
+      "precoCompra": 2300,
+      "formaPagamento": "À vista",
+      "taxaJurosAnual": 15,
+      "valorParcela": "0",
+      "numeroParcelas": "0",
+      "origemCapital": "Próprio",
+      "raca": "Nelore",
+      "pesoInicial": "8.5",
+      "dataPrenha": "",
+      "dataDesmamaPrevista": "",
+      "tipoEntrada": "Compra",
+      "historicoPesos": [
+        {
+          "data": "2026-01-01",
+          "peso": 8.5
+        }
+      ],
+      "status": "Ativo",
+      "partos": 0,
+      "vacinas": [
+        {
+          "data": "2026-04-13",
+          "tipo": "Vermífugo"
+        }
+      ],
+      "despesas": [
+        {
+          "tipo": "Rateio Ração",
+          "valor": 47.25,
+          "data": "2026-04-30"
+        },
+        {
+          "tipo": "Rateio Suplemento",
+          "valor": 45,
+          "data": "2026-04-30"
+        },
+        {
+          "tipo": "Rateio Vacinas",
+          "valor": 22.25,
+          "data": "2026-04-30"
+        },
+        {
+          "tipo": "Rateio Ração",
+          "valor": 125,
+          "data": "2026-05-07"
+        }
+      ],
+      "ocorrenciasSaude": [],
+      "createdAt": "2026-04-30T01:42:04.444Z",
+      "updatedAt": "2026-05-07T23:59:37.896Z"
+    },
+    {
+      "id": "04",
+      "sexo": "Fêmea",
+      "pai": "",
+      "mae": "",
+      "metodoReproducao": "Natural",
+      "dataEntrada": "2026-01-01",
+      "precoCompra": 2300,
+      "formaPagamento": "À vista",
+      "taxaJurosAnual": 15,
+      "valorParcela": "0",
+      "numeroParcelas": "0",
+      "origemCapital": "Próprio",
+      "raca": "Nelore",
+      "pesoInicial": "8",
+      "dataPrenha": "",
+      "dataDesmamaPrevista": "",
+      "tipoEntrada": "Compra",
+      "historicoPesos": [
+        {
+          "data": "2026-01-01",
+          "peso": 8
+        }
+      ],
+      "status": "Ativo",
+      "partos": 0,
+      "vacinas": [
+        {
+          "data": "2026-04-13",
+          "tipo": "Vermífugo"
+        }
+      ],
+      "despesas": [
+        {
+          "tipo": "Rateio Ração",
+          "valor": 47.25,
+          "data": "2026-04-30"
+        },
+        {
+          "tipo": "Rateio Suplemento",
+          "valor": 45,
+          "data": "2026-04-30"
+        },
+        {
+          "tipo": "Rateio Vacinas",
+          "valor": 22.25,
+          "data": "2026-04-30"
+        },
+        {
+          "tipo": "Rateio Ração",
+          "valor": 125,
+          "data": "2026-05-07"
+        }
+      ],
+      "ocorrenciasSaude": [],
+      "createdAt": "2026-04-30T01:42:39.299Z",
+      "updatedAt": "2026-05-07T23:59:37.896Z"
+    },
+    {
+      "id": "05",
+      "sexo": "Fêmea",
+      "pai": "",
+      "mae": "",
+      "metodoReproducao": "Natural",
+      "dataEntrada": "2026-05-02",
+      "precoCompra": 4000,
+      "formaPagamento": "A prazo",
+      "taxaJurosAnual": 15,
+      "valorParcela": "0",
+      "numeroParcelas": "0",
+      "origemCapital": "Próprio",
+      "raca": "Nelore",
+      "pesoInicial": "12",
+      "dataPrenha": "2026-02-01",
+      "dataDesmamaPrevista": "",
+      "tipoEntrada": "Compra",
+      "historicoPesos": [
+        {
+          "data": "2026-05-02",
+          "peso": 12
+        }
+      ],
+      "status": "Ativo",
+      "partos": 0,
+      "vacinas": [],
+      "despesas": [
+        {
+          "tipo": "Rateio Ração",
+          "valor": 125,
+          "data": "2026-05-07"
+        }
+      ],
+      "ocorrenciasSaude": [],
+      "createdAt": "2026-05-02T20:54:54.423Z",
+      "updatedAt": "2026-05-08T00:00:33.804Z"
+    },
+    {
+      "id": "06",
+      "sexo": "Fêmea",
+      "pai": "",
+      "mae": "",
+      "metodoReproducao": "Natural",
+      "dataEntrada": "2026-05-02",
+      "precoCompra": 2300,
+      "formaPagamento": "A prazo",
+      "taxaJurosAnual": 15,
+      "valorParcela": "0",
+      "numeroParcelas": "0",
+      "origemCapital": "Próprio",
+      "raca": "Nelore",
+      "pesoInicial": "8",
+      "dataPrenha": "",
+      "dataDesmamaPrevista": "",
+      "tipoEntrada": "Compra",
+      "historicoPesos": [
+        {
+          "data": "2026-05-02",
+          "peso": 8
+        }
+      ],
+      "status": "Ativo",
+      "partos": 0,
+      "vacinas": [
+        {
+          "data": "2026-05-06",
+          "tipo": "Brucelose"
+        }
+      ],
+      "despesas": [
+        {
+          "tipo": "Rateio Ração",
+          "valor": 125,
+          "data": "2026-05-07"
+        }
+      ],
+      "ocorrenciasSaude": [],
+      "createdAt": "2026-05-02T20:55:44.405Z",
+      "updatedAt": "2026-05-07T23:59:37.896Z"
+    },
+    {
+      "id": "07",
+      "sexo": "Fêmea",
+      "pai": "",
+      "mae": "",
+      "metodoReproducao": "Natural",
+      "dataEntrada": "2026-05-02",
+      "precoCompra": 2300,
+      "formaPagamento": "A prazo",
+      "taxaJurosAnual": 15,
+      "valorParcela": "0",
+      "numeroParcelas": "0",
+      "origemCapital": "Próprio",
+      "raca": "Nelore",
+      "pesoInicial": "8",
+      "dataPrenha": "",
+      "dataDesmamaPrevista": "",
+      "tipoEntrada": "Compra",
+      "historicoPesos": [
+        {
+          "data": "2026-05-02",
+          "peso": 8
+        }
+      ],
+      "status": "Ativo",
+      "partos": 0,
+      "vacinas": [
+        {
+          "data": "2026-05-06",
+          "tipo": "Brucelose"
+        }
+      ],
+      "despesas": [
+        {
+          "tipo": "Rateio Ração",
+          "valor": 125,
+          "data": "2026-05-07"
+        }
+      ],
+      "ocorrenciasSaude": [],
+      "createdAt": "2026-05-02T20:56:57.629Z",
+      "updatedAt": "2026-05-07T23:59:37.896Z"
+    },
+    {
+      "id": "08",
+      "sexo": "Fêmea",
+      "pai": "",
+      "mae": "",
+      "metodoReproducao": "Natural",
+      "dataEntrada": "2026-05-02",
+      "precoCompra": 2300,
+      "formaPagamento": "A prazo",
+      "taxaJurosAnual": 15,
+      "valorParcela": "0",
+      "numeroParcelas": "0",
+      "origemCapital": "Próprio",
+      "raca": "Nelore",
+      "pesoInicial": "8",
+      "dataPrenha": "",
+      "dataDesmamaPrevista": "",
+      "tipoEntrada": "Compra",
+      "historicoPesos": [
+        {
+          "data": "2026-05-02",
+          "peso": 8
+        }
+      ],
+      "status": "Ativo",
+      "partos": 0,
+      "vacinas": [
+        {
+          "data": "2026-05-06",
+          "tipo": "Brucelose"
+        }
+      ],
+      "despesas": [
+        {
+          "tipo": "Rateio Ração",
+          "valor": 125,
+          "data": "2026-05-07"
+        }
+      ],
+      "ocorrenciasSaude": [],
+      "createdAt": "2026-05-02T20:58:21.914Z",
+      "updatedAt": "2026-05-07T23:59:37.896Z"
+    }
+  ],
+  "configuracoes": {
+    "nomeUsuario": "charlton andrade",
+    "nomePropriedade": "fazenda prosperidade",
+    "cartaoProdutor": "",
+    "registroIMA": "",
+    "cotacaoLeiteVaca": 0,
+    "cotacaoLeiteBufala": 0
+  },
+  "producaoLeite": [],
+  "ultimaSalvamento": "2026-05-08T00:00:35.853Z"
+}

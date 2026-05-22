@@ -1,0 +1,20 @@
+{
+  "short_name": "AgropecFuturo",
+  "name": "AgropecFuturo - Gestão de Rebanho",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1545468241-929344177708?q=80&w=192&auto=format&fit=crop",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545468241-929344177708?q=80&w=512&auto=format&fit=crop",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#10b981",
+  "background_color": "#0f172a"
+}
