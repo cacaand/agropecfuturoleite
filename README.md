@@ -1,3 +1,7 @@
+<div align="center"> 
+ <img width="800" alt="Banner Agropec Futuro Leite" src="(https://github.com/cacaand/agropecfuturoleite/issues/1#issue-4502003571)I" /> 
+</div> 
+
 # Agropec Futuro Leite
 
 Sistema desenvolvido para gerenciamento e automação na pecuária leiteira.
@@ -9,6 +13,5 @@ Sistema desenvolvido para gerenciamento e automação na pecuária leiteira.
 
 ### Passo a Passo
 1. Instale as dependências do projeto:
-   
-```bash
+   ```bash
    npm install
