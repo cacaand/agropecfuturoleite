@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img width="800" alt="Banner Agropec Futuro Leite" src=" https://github.com/cacaand/agropecfuturoleite/issues/1#issue-4502003571" /> 
+  <img width="800" alt="Banner Agropec Futuro Leite" src="https://github.com/user-attachments/assets/2709efb9-24e4-442f-b7e3-ca63258a212c" /> 
 </div> 
 
 # Agropec Futuro Leite
