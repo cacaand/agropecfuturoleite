@@ -169,7 +169,7 @@ flutter run -d windows
 
 ## 📄 Licença
 
-Uso comercial e pessoal. Desenvolvido por **IAmina**.
+Uso e pessoal. Desenvolvido por **IAmina**.
 
 ---
 
